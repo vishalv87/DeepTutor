@@ -287,3 +287,4 @@ celerybeat.pid
 *.wav
 *.ogg
 !demo/*.mp4
+.serena/project.yml
